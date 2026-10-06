@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.offlinepay.QRCodeServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.850 s -- in com.offlinepay.QRCodeServiceTest
